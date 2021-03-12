@@ -1,0 +1,72 @@
+import turtle
+
+turtle.shape("turtle")
+
+print(turtle.position())
+
+#for the I
+turtle.right(90)
+turtle.forward(100)
+
+turtle.left(90)
+
+turtle.up ()
+turtle.forward(50)
+
+turtle.down()
+
+turtle.setheading(0)
+
+#for the H
+turtle.left(90)
+turtle.forward(100)
+turtle.left(180)
+turtle.forward(50)
+turtle.left(90)
+turtle.forward(45)
+turtle.left(90)
+turtle.forward(50)
+turtle.left(180)
+turtle.forward(100)
+
+#finished initials
+
+turtle.left(90)
+
+turtle.up()
+
+turtle.forward(50)
+
+turtle.down()
+
+#number 2
+turtle.left(90)
+turtle.up()
+turtle.forward(80)
+turtle.down()
+turtle.forward(20)
+turtle.right(90)
+turtle.forward(40)
+turtle.right(90)
+turtle.forward(40)
+turtle.right(90)
+turtle.forward(40)
+turtle.left(90)
+turtle.forward(60)
+turtle.left(90)
+turtle.forward(40)
+#finished
+
+turtle.up()
+turtle.forward(50)
+turtle.down()
+
+#number 0
+turtle.left(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(50)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(50)
